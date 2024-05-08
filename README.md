@@ -137,3 +137,7 @@ git branch -r (te permite ver las ramas remotas en tu servidor)
 
 git branch - a (te muestra las ramas locales y las remotas)
 
+Es muy importante tener un manejo ordenado de nuestro repositorio y para esto existe algo que se llama GitFlow.
+
+GitFlow es una una guía que nos da cierto estándares para manejar la ramificación de nuestros proyectos, es decir, que ramas debemos tener, cuándo y de dónde debemos crear nuevas ramas, cómo debemos nombrar dichas ramas y muchos otros conceptos que nos ayudaran a manejar mucho mejor nuestro repositorio; siendo esto muy importante cuando trabajamos en conjunto con varios desarrolladores.
+
