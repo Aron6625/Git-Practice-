@@ -76,5 +76,6 @@ Es una metodología para el manejo de ramas en proyectos de desarrollo, establec
 - **git grep:** Busca patrones en archivos del repositorio.
 
 - **gitk:** Interfaz gráfica para visualizar la historia del proyecto.
+- ![Estados de Git](https://github.com/Aron6625/Git-Practice-/blob/main/estados-git-0acb84f7-5080-4098-99d9-59012a3b8e86.png)
 
 ---
